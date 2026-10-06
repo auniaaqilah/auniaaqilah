@@ -5,7 +5,7 @@ Computer Science student at UiTM interested in software engineering and AI.
 ## About me
 - Studying: Computer Science , UiTM
 - Currently learning:
-- My FYP area: Software Testing
+- My FYP area: Software Engineering - Software Testing
 
 ## Skills and tools
 
